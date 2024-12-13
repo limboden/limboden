@@ -7,12 +7,12 @@ Full Stack Developer
 I've been learning how to code since freshman year of high school, and I'm actively learning what it takes to be a full time dev
 
 * 🌍  I'm based in Orlando
-* 🖥️  See my portfolio at [Click here for my Portfolio](http://google.com)
+* 🖥️  See my portfolio [here!]((https://portfolio-website-02au.onrender.com/))
 * ✉️  You can contact me at [imbodenlu@gmail.com](mailto:imbodenlu@gmail.com)
-* 🚀  I'm currently working on [this](http://google.com)
+* 🚀  I'm currently working on [this](https://github.com/sameeridris/GG-Central)
 * 🧠  I'm learning GraphQL
 * 🤝  I'm open to collaborating on anything really
-* ⚡  bruh
+* ⚡  
 
 ### Skills
 
